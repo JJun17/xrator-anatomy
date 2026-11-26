@@ -6,7 +6,8 @@ X-rator(엑스레이 촬영 실습 3D 시뮬레이터)가 실행할 때 내려�
 | 파일 | 사용하는 검사 |
 |---|---|
 | `headneck.json` | 머리뼈 가쪽방향·Waters, 목뼈 AP·가쪽방향 |
-| `thorax.json` | 가슴 PA·AP·가쪽방향·전만, 어깨 AP |
+| `thorax.json` | 가슴 PA·AP·가쪽방향·전만 |
+| `shoulder.json` | 어깨 AP (투명 수지 어깨 팬텀) |
 | `abdomen.json` | KUB, 허리뼈 AP |
 | `hand.json` | 손 PA |
 | `knee.json` | 무릎 AP·가쪽방향 |
